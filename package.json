@@ -1,0 +1,9 @@
+{
+    "name": "arturs_first",
+    "description": "Module to play with Node.",
+    "license": "BSD-2-Clause-FreeBSD",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
